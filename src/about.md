@@ -9,8 +9,9 @@ I am Griffin Wirth. I'm a Integrative Informatics major and a Theatre minor at A
 
 I have been in some productions here at Allegheny College. I was a light board operator for the show *Proof*, where I got inside experience on the production process that the light board operator and the lighting director go through together for each show from start to end.
 
-With that in mind, I want to use computer science to help the lighting director at Allegheny in pre production for the shows we put on here. The process starts with 
+With that in mind, I want to use computer science to help the lighting director at Allegheny in pre production for the shows we put on here. I want the coloration between the Director and the Lighting director be closer. Ad knock down any barriers that might be there due to a director not having any background in lighting to correctly collaborate with each other.
 
-He grew up in a middle class neighbourhood. After his mother died when he was young, he was raised by his father
 
-He is currently married to Maureen Erika Quinn. Maureen is 13 years older than him and works as a sales assistant.
+
+
+
