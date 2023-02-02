@@ -29,12 +29,6 @@
     }
 
   ],
-  "footerLinks": [
-    {
-      "text": "RSS",
-      "url": "/feed.xml",
-      "external": true
-    }
-  ],
-  "showFooterAttribution": false
+  
+  "showFooterAttribution": true
 }
