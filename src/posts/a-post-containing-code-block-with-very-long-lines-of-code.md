@@ -2,11 +2,11 @@
 title: First Article Found
 description: This article talks about the Lighting Production process and shows me how I can help some parts of this process.
 permalink: posts/{{ title | slug }}/index.html
-date: '2021-06-28'
-tags: [demo-content, code]
+date: '2023-02-02'
+tags: [Theatre, Lighting, pre-production]
 ---
 
-This article talks about the Lighting Production process and shows me how I can help some parts of this process.
+This article talks about the Lighting Production process and shows me how I can help some parts of this process with computer science.
 
 
 ```
