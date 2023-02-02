@@ -5,9 +5,9 @@ name: Aidan Charles Powell
 image: '/images/me.jpeg'
 ---
 
-Aidan Charles Powell is a 23-year-old health centre receptionist who enjoys watching television, eating out and social media. He is generous and giving, but can also be very rude and a bit lazy.
+I am Griffin Wirth. I'm a Integrative Informatics major and a Theatre minor at Allegheny College. For our senior project at our school we need to make a project that is based around our interests, major, and minor. The classes that have stuck with me throughout my years at Allegheny are "Robotics" for Integrative Informatics, and "Lighting Design and Production" for Theatre. I have been in some productions here at Allegheny College. I was a light board operator for the show *Proof*, where I got inside experience on the production process that the light board operator and the lighting director go through together for each show from start to end.
 
-He is a Jedi who defines himself as straight. He has a degree in medicine. He is a vegetarian. He is obsessed with vintage dresses.
+With that in mind, I want to use computer science to help the lighting director at Allegheny in pre production for the shows we put on here. The process starts with 
 
 He grew up in a middle class neighbourhood. After his mother died when he was young, he was raised by his father
 
