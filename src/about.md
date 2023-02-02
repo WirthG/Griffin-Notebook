@@ -9,7 +9,7 @@ I am Griffin Wirth. I'm an [Integrative Informatics Major](https://catalog.alleg
 
 I have been in some productions here at Allegheny College. I was a light board operator for the show [*Proof*](https://sites.allegheny.edu/playshop/91st-season-2021-2022/), where I got inside experience on the production process that the light board operator and the lighting director go through together for each show from start to end.
 
-With that in mind, I want to use computer science to help the lighting director at Allegheny in pre production for the shows we put on here. I want the coloration between the Director and the Lighting director be closer. Ad knock down any barriers that might be there due to a director not having any background in lighting to correctly collaborate with each other.
+With that in mind, I want to use computer science to help the lighting director at Allegheny in pre production for the shows we put on here. I want the coloration between the Director and the Lighting director be closer. And knock down any barriers that might be there due to a director not having any background in lighting to correctly collaborate with each other.
 
 
 
