@@ -6,7 +6,7 @@ date: '2021-06-28'
 tags: [demo-content, code]
 ---
 
-Health goth raw denim vaporware waistcoat, vegan neutra glossier. Cronut chartreuse tbh meh schlitz. Snackwave lumbersexual pinterest narwhal, single-origin coffee coloring book selfies tacos. Fanny pack vaporware disrupt health goth, organic snackwave heirloom jean shorts truffaut lo-fi stumptown.
+This article talks about the Lighting Production process and shows me how I can help some parts of this process.
 
 ## The `.full-bleed` utility
 
