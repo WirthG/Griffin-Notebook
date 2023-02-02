@@ -9,7 +9,7 @@ tags: [Theatre, Lighting, Production Process]
 This article talks about the Lighting Production process and shows me how I can help some parts of this process with computer science.
 
 
-```
+
 
 
 ## Heading
