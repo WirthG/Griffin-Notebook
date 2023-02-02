@@ -24,7 +24,7 @@
     {
       "text": "Instagram",
       "url": "https://instagram.com/",
-      "external": true
+      "external": false
     },
     {
       "text": "GitHub",
@@ -34,7 +34,7 @@
     {
       "text": "Twitter",
       "url": "https://twitter.com/",
-      "external": true
+      "external": false
     }
   ],
   "footerLinks": [
