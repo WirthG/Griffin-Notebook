@@ -1,7 +1,7 @@
 ---
-title: About Aidan Charles Powell
+title: About Griffin Wirth
 layout: about.njk
-name: Aidan Charles Powell
+name: Griffin Wirth
 image: '/images/me.jpeg'
 ---
 
