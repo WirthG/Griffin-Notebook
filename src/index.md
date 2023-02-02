@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 'Eleventy Duo'
+title: 'Griffin's Notebook'
 ---
 
 # Hello World
