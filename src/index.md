@@ -1,8 +1,8 @@
 ---
 layout: home
-title: 'Griffin's Notebook'
+title: 'Eleventy Duo'
 ---
 
 # Hello World
 
-Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs. Checkout the [project's github repo](https://github.com/yinkakun/eleventy-duo) for more info.
+This is where my blogs/posts will be uploaded. It will contain progress reports, new ideas, and changes in the whole project idea.
