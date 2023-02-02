@@ -8,7 +8,6 @@ tags: [demo-content, code]
 
 This article talks about the Lighting Production process and shows me how I can help some parts of this process.
 
-## The `.full-bleed` utility
 
 ```js
 const toFixed = (n, fixed) => ~~(Math.pow(10, fixed) * n) / Math.pow(10, fixed);
