@@ -1,31 +1,19 @@
 ---
-title: A simple post
-date: '2020-10-18'
-tags: [demo-content, simple-post]
-description: Meditation gentrify fam, yuccie kickstarter brunch vape. Pitchfork freegan biodiesel bicycle rights. Semiotics flexitarian four loko XOXO raw denim chartreuse.
+title: Bridging "The Gap"
+date: '2023-2-28'
+tags: [Software, Augment3d, Vulk, System, ETC Manual]
+description: The ETC Ion Classic Operations Manual has a table of context and in it is an Augment3d tab where it shows Hardware and Software Requirements.
 permalink: posts/{{ title | slug }}/index.html
 ---
 
-Meditation gentrify fam, yuccie kickstarter brunch vape. Pitchfork freegan biodiesel bicycle rights. Semiotics flexitarian four loko XOXO raw denim chartreuse. Cray ramps microdosing everyday carry bicycle rights
+**This Post is about what type of software is needed to run Augment3d**
 
-## How about a `<blockquote>`?
+The ETC Ion Classic Operations Manual has a table of context. In it is an Augment3d tab where it shows Hardware and Software Requirements. There it talks about the console requirements if you are using a PC or a Mac vs an iOS or Android system. It also has pictures of how to run Augment3d on MAC or Android.
 
-> Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue.
+## Image
 
-## Unordered list of stuff:
+![Augment3d Page in ETC Manual](Augment3d.PNG)
 
-- Sed posuere consectetur est at lobortis
-- Aenean lacinia bibendum nulla sed consectetur
-- Sed posuere consectetur est at lobortis
+This screen shot of the ETC manual shows how many different systems the software can work with regarding Augment3d. This is very good news for me and I plan on meeting with Professor Mehler and getting inside the Vulk to see what exactly we could potentially do.
 
-## Ordered list:
-
-1. Sed posuere consectetur est at lobortis
-2. Aenean lacinia bibendum nulla sed consectetur
-3. Sed posuere consectetur est at lobortis
-
-Bitters bushwick schlitz, 3 wolf moon tofu hoodie beard bicycle rights truffaut keffiyeh sartorial.
-
-## Monospace Text wrapped in "pre" tags:
-
-<pre>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.</pre>
+ I know that there is a MAC monitor/system that is used but also a regular monitor. Regardless, whatever the Vulk has should be efficient enough for me to do a project.
