@@ -16,8 +16,4 @@ The ETC Ion Classic Operations Manual has a table of context. In it is an Augmen
 
 This screen shot of the ETC manual shows how many different systems the software can work with regarding Augment3d. This is very good news for me and I plan on meeting with Professor Mehler and getting inside the Vulk to see what exactly we could potentially do. 
 
-## Video
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Yw6u6YkTgQ4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Action item screw the pooch, so cannibalize, nor streamline, so Bob called an all-hands this afternoon t-shaped individual 
