@@ -37,7 +37,7 @@ I can have Professor Mehler and anyone else who knows about lighting to analyze 
 **Other abilities and resources:**
 My project is pretty sound. If I need to modify it at all then I will. I do not see myself doing another different project especially because of how involved a lot of people are already. My “backup” would be shifting to a helper project if the VR doesn't work out. My project will be more about making the lighting process smoother for everyone. Which is already my goal.
 
-**Threats to Validity:** 
+__Threats to Validity:__ 
 I do not believe my project has any of this. The only thing that might get in the way is the theatre department not being totally cooperative. Specifically a student not wanting to choose a light heavy show versus one they have wanted to do for a while. I believe I could come to an agreement if something like this happens. I have seen a show with multiple students doing their comps in roles that are directors or actors or something like that and I know it is possible but I know that they can get picky with who is “in charge”.
 
 
