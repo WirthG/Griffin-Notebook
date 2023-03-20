@@ -9,7 +9,6 @@ tags: [Project, Progress]
 
 **Overall vision for my project as of right now.**
 
-
 Hardware:
 The hardware necessary is any monitor to show the software that is already built into the system in the Vulk. I do still need to get into the Vulk to see what hardware they have. Also if it is something like a MAC, to see if I could use something else that I am more familiar with. Or does it not matter?
 
