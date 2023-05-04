@@ -7,32 +7,32 @@ updated: '2023-05-04'
 tags: [Project, Progress]
 
 ---
-## Research Question:
+### Research Question:
 This is my final post of junior year for my project. As of right now my idea/question is using the Augmented system in the ETC board, *how can I make the lighting production process faster, more efficient, and more collaborative for the directors and cast?* I hope for my project to be available for use for shows in the future here at Allegheny. But before I get into that, I need to start at the beginning. 
 
-## More In Depth About My Project:
+### More In Depth About My Project:
 My proposal for my project idea is to use the Augment3d system in the ETC board I will *make the lighting process part of the show faster, better, and more collaborative.* I will do this by collaborating with the director of the show early on in the process on how they want the show to be lit. I will then render some examples in the software to get a feel of the lighting. Once the lighting is perfect, I will then implement each light cue into the real stage for the actors to use. This implementation will be earlier in the process than it has been before. This will help the cast and directors see the vision of the show earlier in the process which will hopefully help the actors by immersing them in the world earlier on in the process as well as having the directors see the world and hopefully be inspired by it for their own part of the show. This is all still in the development process and theoretical. But my idea of helping the theater process be better by using computer science and cool software is my main goal for the project. Of course, some things might change or not work out.
 
-## Concerns About My Project:
+### Concerns About My Project:
 My concerns about my project showed up when I met with Professor Luman. When he heard of my plan for my project, he guided my project idea away from the theater project and made it more into an integrative informatics project. I still have concerns about how much energy I plan on putting into this project this summer when I might have to scrap this project or evolve it into something that does not pertain to the research I did. I plan on meeting with Professor Luman and Mehler soon to clear up some of these problems. Until then, I believe my main idea of using software to make a theatrical process go better is a good project idea and fits well with my major and minor. Even with these concerns, my project still has some gaps in it that I needed to fill. 
 
-## Filling the Gaps:
+### Filling the Gaps:
 My main gap before was knowing ALL of the ways the software works and can be used. Even going through some of the features with Professor Mehler, we still did not use every feature. I might not use every part of the software for my project but I do want to teach myself what everything can be a part of my project, teaching myself everything about Augment3d. My plan to seal this gap will happen this summer. I will study a set of professional videos from the ETC YouTube channel which is a 39-set learning series. It goes over the basics of how to operate the Augment3d software as well as how to use all of the cool features. After meeting with the Professors, I will have a better understanding of what and how I should prepare myself for this project over the summer. My ideas are definitely big for this project, especially compared to other computer science projects or other Integrative Informatics project ideas. Thinking of what I can do over the summer to prepare myself for the future also got me thinking of limits that could come up for my project in the future. 
 
-## Limits of My Research:
+### Limits of My Research:
 The limits in my area of research might be the hardware that the theater department has for a lighting project like this. I know that we have lights to carry out normal shows like the ones we are doing next year. I do not know what type of lights and equipment Augment3d uses or can use for a project. I know it can use normal lights that we have but if we want to use a specific feature, it might require different hardware. However, the software showed that all the hardware we have right now should be enough for any show we put on. Mehler and I got into the software for a second and played around to see what was available.
 
-## Prototype: 
+### Prototype: 
 The prototype that Mehler and I developed was made using the Augment3d software. We first made a render of a stage similar to the Gladys Mullenix Black Theatre. We went in and played with some of the features, seeing what is possible and what the software has to offer that we know of right now. Some of the features were how bright or dim the light is, how harsh or dull the radius of the light is, what color the light is, and what focus point each light is on. Unfortunately, there wasn't a way to export or record this test but it did open my eyes to what is available to do. It is a great tool to use for this project and I am very impressed and excited to use it. The experiment showed me that Augment3d is the perfect tool to use if I want to make the lighting process part of the show faster, better, and more collaborative. Having a snapshot of each light cue to present to the director and cast showing the design idea of the show is super helpful. It will help the cast be more immersed in the world the play is in. It will also make the director's vision of the show closer to reality which might spark more ideas on how to make the world real. What I learned from the application process is that having a snapshot of each light cue at the beginning of the production process will show people auditioning what type of show the play is. Having a view into the world of a play that is not even made yet is a big help to everyone involved or wanting to be involved. It is also a good way to get people excited about being a part of the production. In the past, directors only had reference pictures of past productions that they might have been a part of or not. The difference of having these snapshots is huge. These snapshots of the end result of the software are super important. Not only are they proof of my project but also simple windows into the designer's head. 
 
-## Product of My Project:
+### Product of My Project:
 The good thing about the snapshot light cues is that it is a picture of the results of the my work using the software. So nobody needs to understand the process of how to use the software. They just get the end product which is a picture of the VR stage and the lighting in its cue. I have a picture of what a Agment3d snapshot looks like below. It is a picture of Augment3d used for Hamilton. Having the project be heavily product based also comes in handy when thinking about ethical concerns.
 
 ![Augment3d Demo](https://qtxasset.com/quartz/qcloud4/media/image/livedesignonline/1594410979/Hamilton-Programming-Project-Eos-Augment3d-1.png?VersionId=hS5750T63dpqdoxMcQHqynSM_L4NM4t7)
 
-## Ethics:
+### Ethics:
 The ethical concern I have about my project is the future of my project being used. Mehler said that in the future, a musical show would be great for using this project. If the Augnemt3d software is used and all the light cues are perfect, then the light board operator job is now just pushing a button and not editing the light cues at all. Which makes the job and experience less important and fun. Besides that, there are no bad ethics to this project. With no major ethical concerns, all I am thinking about are the next steps that I have to take to make this project a reality. 
 
-## Next Steps:
+### Next Steps:
 The next steps are definitely doing research on how I can use Augnemt3d to the best of my ability. I do not want to go into the project without any knowledge of what this software can do. Especially if these are features to make this process easier or better. 
 
