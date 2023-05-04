@@ -2,8 +2,9 @@
 title: Final Junior Post
 date: '2023-5-4'
 tags: [Project, Progress]
-decription: This is my final post of junior year for my project. As of right now my idea/question is using the Augment3d system in the ETC board, how can I make the lighting production process faster, more efficient, and more collaborative for the directors and cast?  I hope for my project to be available for use for shows in the future here at Allegheny. But before I get into that, I need to start at the beginning. 
+description: This is my final post of junior year for my project. As of right now my idea/question is using the Augment3d system in the ETC board, how can I make the lighting production process faster, more efficient, and more collaborative for the directors and cast?  I hope for my project to be available for use for shows in the future here at Allegheny. But before I get into that, I need to start at the beginning. 
 permalink: posts/{{ title | slug }}/index.html
+
 ---
 **Research Question**
 This is my final post of junior year for my project. As of right now my idea/question is using the Augmented system in the ETC board, *how can I make the lighting production process faster, more efficient, and more collaborative for the directors and cast?* I hope for my project to be available for use for shows in the future here at Allegheny. But before I get into that, I need to start at the beginning. 
