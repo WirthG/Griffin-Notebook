@@ -27,6 +27,7 @@ The prototype that Mehler and I developed was made using the Augment3d software.
 
 **Product of My Project**
 The good thing about the snapshot light cues is that it is a picture of the results of the my work using the software. So nobody needs to understand the process of how to use the software. They just get the end product which is a picture of the VR stage and the lighting in its cue. I have a picture of what a Agment3d snapshot looks like below. It is a picture of Augment3d used for Hamilton. Having the project be heavily product based also comes in handy when thinking about ethical concerns.
+
 ![Augment3d Demo](https://qtxasset.com/quartz/qcloud4/media/image/livedesignonline/1594410979/Hamilton-Programming-Project-Eos-Augment3d-1.png?VersionId=hS5750T63dpqdoxMcQHqynSM_L4NM4t7)
 
 **Ethics**
