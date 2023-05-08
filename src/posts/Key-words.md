@@ -11,9 +11,9 @@ tags: [Assignment, Project, Key-Words]
 
 1. Theatre
 2. Integrative Informatics
-3. Lighting
+3. Show Light Plot
 4. ETC
-5. Heavy Visual Interface
+5. Data in Plays Text
 6. Augment3d
 7. Snapshot
 8. Collaborative
