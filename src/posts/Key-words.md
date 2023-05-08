@@ -12,12 +12,12 @@ tags: [Assignment, Project, Key-Words]
 1. Theatre
 2. Integrative Informatics
 3. Lighting
-4. Light Code
+4. ETC
 5. Heavy Visual Interface
-6. VR
-7. Mapping
+6. Augment3d
+7. Snapshot
 8. Collaborative
 9. Lighting Class
-10. Robotics Class
+10. Light Cue
 
 
