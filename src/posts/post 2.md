@@ -4,7 +4,7 @@ description: A article talking about VR and the basics with codding.
 permalink: posts/{{ title | slug }}/index.html
 date: '2023-02-02'
 updated: '2023-02-05'
-tags: [VR, Code, Programing]
+tags: [VR, Code, Programming]
 ---
 
 **This is the first article that I found, talking about VR and what it takes to code with.**
