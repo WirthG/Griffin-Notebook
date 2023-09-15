@@ -2,7 +2,7 @@
 title: Editing and Evolving my Project Idea
 description: With the meeting I had with my readers, I have started to adapt my project idea.
 permalink: posts/{{ title | slug }}/index.html
-date: '2023-3-19'
+date: '2023-03-19'
 updated: '2023-05-04'
 tags: [Project, Progress]
 ---
