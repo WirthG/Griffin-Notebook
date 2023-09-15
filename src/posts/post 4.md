@@ -2,7 +2,7 @@
 title: How Do-able is my Project
 description: A article talking about VR and the basics with codding.
 permalink: posts/{{ title | slug }}/index.html
-date: '2023-03-20'
+date: '2023-02-20'
 updated: '2023-02-05'
 tags: [Project, Progress]
 ---

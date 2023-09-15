@@ -2,7 +2,7 @@
 title: Final Junior Post
 description: This is my final post of junior year for my project. As of right now my idea/question is using the Augment3d system in the ETC board, how can I make the lighting production process faster, more efficient, and more collaborative for the directors and cast?  I hope for my project to be available for use for shows in the future here at Allegheny. But before I get into that, I need to start at the beginning.
 permalink: posts/{{ title | slug }}/index.html
-date: '2023-05-04'
+date: '2023-04-05'
 updated: '2023-05-04'
 tags: [Project, Progress]
 
