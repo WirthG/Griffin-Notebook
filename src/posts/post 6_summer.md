@@ -1,9 +1,10 @@
 ---
 title: Editing and Evolving my Project Idea
-date: '2023-3-19'
-tags: [Project, Progress]
-description: With the meeting I had with my readers, I have started to adapt my project idea. 
+description: With the meeting I had with my readers, I have started to adapt my project idea.
 permalink: posts/{{ title | slug }}/index.html
+date: '2023-3-19'
+updated: '2023-05-04'
+tags: [Project, Progress]
 ---
 
 This past week I meet with Professors Luman and Mehler, my first and second readers, about my project idea. After my computer science junior seminar, I was still concerned about the qualifications that my project idea needed to meet. I set up a virtual meeting and talked about some of the ways my project could go. 
